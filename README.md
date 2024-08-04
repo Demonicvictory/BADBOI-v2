@@ -32,6 +32,8 @@ BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https:
 [`Badboi-v2 Pairing Using Render`](https://badboi.onrender.com/)
 
 [`Badboi-v2 Pairing using Replit`](https://replit.com/@samjame088/Xeon-PairCode-1)
+
+829395
 ### . <a href="https://pylexnodes.net"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-black" alt="Click Here to Deploy on Panel" width="120"></a>
 
 ### . <a href="https://dashboard.toystack.ai/login"><img src="https://img.shields.io/badge/DEPLOY ON TOYSTACK AI -black" alt="Click Here to Deploy on TOYSTACK AI" width="120"></a>
@@ -162,7 +164,14 @@ npm i -g forever && forever index.js && forever save && forever logs
 |  Developer |
 
   </div>
+  <div align="center">
   
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+|----|
+| [  Lord No Name](https://github.com/Anime-King01) |
+|  Co-Developer |
+
+  </div>
    
   </br> 
 
@@ -177,7 +186,7 @@ npm i -g forever && forever index.js && forever save && forever logs
   
    ## `Special Thanks To`
 
-* [`📕 Emperordagoat..!!`](https://github.com/Emperordagoat)
+* [`📕 Lord No Name..!!`](https://github.com/Anime-King01)
 * * [`📕 Cod3Uchiha`](https://github.com/Cod3Uchiha)
  
   * ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
